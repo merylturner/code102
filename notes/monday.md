@@ -10,7 +10,7 @@ Evaluate
 Print
 Loop
 
-White Space: separating keywords and variables
+White Space: separating keywords and variables, important
 
 Declaring the variable var fruit = apple;
 Assigning or changing the value of the variable, fruit = orange;
