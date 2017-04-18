@@ -1,4 +1,5 @@
-Notes for Monday's Class
+##Monday notes
 git add
-git commit 
+git commit
 git push
+flag: modifies your original command, -p (patch) making sure
